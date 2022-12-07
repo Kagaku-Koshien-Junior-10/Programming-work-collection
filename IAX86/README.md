@@ -2,6 +2,6 @@
 
 I make WXForm, bash scripts, and some brainf\*\*k scripts.  
 
-## License
+## LICENSE
 
 LICENSE files saved in sub directories.  
