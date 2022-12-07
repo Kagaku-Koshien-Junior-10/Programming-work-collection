@@ -1,6 +1,6 @@
 # IAX86
 
-I make WXForm, bash scripts, and some brainf\*\*k scripts.  
+I make Python pages, bash scripts, and some brainf\*\*k scripts.  
 
 ## LICENSE
 
