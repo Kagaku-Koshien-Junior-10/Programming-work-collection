@@ -5,7 +5,7 @@ I make Python pages, bash scripts, and some brainf\*\*k scripts.
 ## LICENSE
 
 LICENSE files saved in sub directories.  
-(CC License will be applyed only this directory.)
+(CC License will be applied only this directory.)
 
 ## GPG
 
