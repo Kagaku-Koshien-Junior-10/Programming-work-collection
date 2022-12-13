@@ -1,4 +1,5 @@
 IAX86 Brainfuck Script
+!Begin Brainfuck Script!
 >
 ++++++++++
 <
@@ -26,3 +27,4 @@ IAX86 Brainfuck Script
 .
 >
 .
+!End Brainfuck Script!
