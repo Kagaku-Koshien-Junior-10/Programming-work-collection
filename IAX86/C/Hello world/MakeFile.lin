@@ -1,0 +1,10 @@
+CC		=	gcc
+CFLAGS	=	-O2 -march=native
+
+all:		hello.o
+
+hello.o:	main.c
+			$(CC) $(CFLAGS) -o hello.o main.c
+
+clean:
+			rm -f hello.o

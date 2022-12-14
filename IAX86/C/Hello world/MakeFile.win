@@ -1,0 +1,10 @@
+CC		=	gcc
+CFLAGS	=	-O2 -march=native
+
+all:	hello.exe
+
+hello.exe:	main.c
+			$(CC) $(CFLAGS) -o hello.exe main.c
+
+clean:
+			cmd /c del /q hello.exe
