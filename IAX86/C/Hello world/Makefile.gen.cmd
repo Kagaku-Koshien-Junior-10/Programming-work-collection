@@ -1,1 +1,0 @@
-@move MakeFile.win MakeFile
